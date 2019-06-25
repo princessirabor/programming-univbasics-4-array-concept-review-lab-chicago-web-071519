@@ -6,7 +6,7 @@ def find_element_index(array, value_to_find)
       index_found = index
     end
   end
-  index
+  index_found
 end
 
 def find_max_value(array)
